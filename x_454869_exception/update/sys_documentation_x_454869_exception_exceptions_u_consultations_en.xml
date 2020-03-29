@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_consultations" label="Consultations" language="en" table="x_454869_exception_exceptions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_consultations</element>
+            <help/>
+            <hint/>
+            <label>Consultations</label>
+            <language>en</language>
+            <name>x_454869_exception_exceptions</name>
+            <plural>Consultations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:13</sys_created_on>
+            <sys_id>c00df06edbfb4010f3402706ca96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Consultations</sys_name>
+            <sys_package display_value="Exception management" source="x_454869_exception">37d5f8e6dbfb4010f3402706ca9619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exception management">37d5f8e6dbfb4010f3402706ca9619f2</sys_scope>
+            <sys_update_name>sys_documentation_x_454869_exception_exceptions_u_consultations_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

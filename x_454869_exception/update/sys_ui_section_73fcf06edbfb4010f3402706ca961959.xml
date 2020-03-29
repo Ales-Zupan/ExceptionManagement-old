@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Exception details" section_id="73fcf06edbfb4010f3402706ca961959" sys_domain="global" table="x_454869_exception_exceptions" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_id>940d346edbfb4010f3402706ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception details" display_value="Exception details" name="x_454869_exception_exceptions" sys_domain="global" view="Default view">73fcf06edbfb4010f3402706ca961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_Description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_id>180d346edbfb4010f3402706ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception details" display_value="Exception details" name="x_454869_exception_exceptions" sys_domain="global" view="Default view">73fcf06edbfb4010f3402706ca961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_asset</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_id>980d346edbfb4010f3402706ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception details" display_value="Exception details" name="x_454869_exception_exceptions" sys_domain="global" view="Default view">73fcf06edbfb4010f3402706ca961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_Rationale</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_id>1c0d346edbfb4010f3402706ca961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Exception details" display_value="Exception details" name="x_454869_exception_exceptions" sys_domain="global" view="Default view">73fcf06edbfb4010f3402706ca961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Exception details</caption>
+            <header>false</header>
+            <name>x_454869_exception_exceptions</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73fcf06edbfb4010f3402706ca961959</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Exception details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Exception management" source="x_454869_exception">37d5f8e6dbfb4010f3402706ca9619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exception management">37d5f8e6dbfb4010f3402706ca9619f2</sys_scope>
+            <sys_update_name>sys_ui_section_73fcf06edbfb4010f3402706ca961959</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

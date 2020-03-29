@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_riskimpactlevel" table="x_454869_exception_exceptions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riskimpactlevel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Individual</label>
+            <language>en</language>
+            <name>x_454869_exception_exceptions</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e00d346edbfb4010f3402706ca961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <value>individual</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riskimpactlevel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business unit</label>
+            <language>en</language>
+            <name>x_454869_exception_exceptions</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>240d346edbfb4010f3402706ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <value>business unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riskimpactlevel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Function</label>
+            <language>en</language>
+            <name>x_454869_exception_exceptions</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a00d346edbfb4010f3402706ca961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <value>function</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_riskimpactlevel</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Firm</label>
+            <language>en</language>
+            <name>x_454869_exception_exceptions</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>200d346edbfb4010f3402706ca961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+            <value>firm</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_riskimpactlevel</element>
+            <name>x_454869_exception_exceptions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-29 19:45:15</sys_created_on>
+            <sys_id>2c0d346edbfb4010f3402706ca961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_riskimpactlevel</sys_name>
+            <sys_package display_value="Exception management" source="x_454869_exception">37d5f8e6dbfb4010f3402706ca9619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exception management">37d5f8e6dbfb4010f3402706ca9619f2</sys_scope>
+            <sys_update_name>sys_choice_x_454869_exception_exceptions_u_riskimpactlevel</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-29 19:45:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

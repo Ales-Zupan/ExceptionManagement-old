@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-29 19:17:51</sys_created_on>
+        <sys_id>c7b6f46adbfb4010f3402706ca9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_454869_exception_exceptions.x_454869_exception.exceptions_user</sys_name>
+        <sys_package display_value="Exception management" source="x_454869_exception">37d5f8e6dbfb4010f3402706ca9619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exception management">37d5f8e6dbfb4010f3402706ca9619f2</sys_scope>
+        <sys_security_acl display_value="x_454869_exception_exceptions">4bb6f46adbfb4010f3402706ca96199f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c7b6f46adbfb4010f3402706ca9619a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-29 19:17:51</sys_updated_on>
+        <sys_user_role display_value="x_454869_exception.exceptions_user" name="x_454869_exception.exceptions_user">f6b67c2adbfb4010f3402706ca961955</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

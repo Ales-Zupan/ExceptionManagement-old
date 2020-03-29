@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Exceptions" max_length="40" name="x_454869_exception_exceptions" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset name" mandatory="true" max_length="40" name="u_asset" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="technical category" label="Exception category" mandatory="true" max_length="40" name="u_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Technical category" sequence="0" value="technical category"/>
+                <element inactive_on_update="false" label="Policy category" sequence="1" value="policy category"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Consultations" max_length="40" name="u_consultations" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Exception description" max_length="2048" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Exception requested until" mandatory="true" max_length="40" name="u_exceptionuntil" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="u_firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="very low" label="Risk impact score" max_length="40" name="u_impactscore" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Very low" sequence="0" value="very low"/>
+                <element inactive_on_update="false" label="Low" sequence="1" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="medium"/>
+                <element inactive_on_update="false" label="High" sequence="3" value="high"/>
+                <element inactive_on_update="false" label="Very high" sequence="4" value="very high"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="u_lastname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner's unique id" max_length="40" name="u_ouniqueid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner's unique ID" max_length="40" name="u_ownerid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rationale" max_length="40" name="u_rationale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor's first name" mandatory="true" max_length="40" name="u_rfirstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Risk impact description" max_length="40" name="u_riskimpact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk impact category" max_length="40" name="u_riskimpactcategory" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Risk impact level" max_length="40" name="u_riskimpactlevel" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Individual" sequence="0" value="individual"/>
+                <element inactive_on_update="false" label="Business unit" sequence="1" value="business unit"/>
+                <element inactive_on_update="false" label="Function" sequence="2" value="function"/>
+                <element inactive_on_update="false" label="Firm" sequence="3" value="firm"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Requestor's last name" mandatory="true" max_length="40" name="u_rlastname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor's unique id" mandatory="true" max_length="40" name="u_runiqueid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requestor's unique ID" max_length="40" name="u_uniqueid" type="string"/>
+    </element>
+</database>
